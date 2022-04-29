@@ -12,55 +12,20 @@ de acordo com o critério da “distribuição ótima”.
 Console.WriteLine("Valor a ser sacado");
 int valor = int.Parse(Console.ReadLine());
 
-int qtdNota100 = 0; int qtdNota50 = 0; int qtdNota20 = 0; int qtdNota10 = 0;int qtdNota5 = 0; int qtdNota2 = 0;
+int resto, qtdNota100, qtdNota50, qtdNota20, qtdNota10, qtdNota5,qtdNota2;
 
-if(valor >= 100)
-{
-    do
-    {
-        qtdNota100 ++;
-    } while ((valor - (qtdNota100 * 100)) <= 100);
-}
-int acumulativo = qtdNota100 * 100;
-if (valor - acumulativo != 0)
-{
-    do
-    {
-        qtdNota50++;
-    } while ((valor - (qtdNota50 * 50)) <= 50);
-}
-acumulativo += qtdNota50 * 50;
-if (valor - acumulativo != 0)
-{
-    do
-    {
-        qtdNota20++;
-    } while ((valor - (qtdNota20 * 20)) <= 20);
-}
-acumulativo += qtdNota20 * 20;
-if (valor - acumulativo != 0)
-{
-    do
-    {
-        qtdNota10++;
-    } while ((valor - (qtdNota10 * 10)) <= 10);
-}
-acumulativo += qtdNota10 * 10;
-if (valor - acumulativo != 0)
-{
-    do
-    {
-        qtdNota5++;
-    } while ((valor - (qtdNota5 * 5)) <= 5);
-}
-acumulativo += qtdNota5 * 5;
-if (valor - acumulativo != 0)
-{
-    do
-    {
-        qtdNota2++;
-    } while ((valor - (qtdNota2 * 2)) <= 2);
-}
+qtdNota100 = valor / 100;
+resto = valor % 100;
+qtdNota50 = resto / 50;
+resto = resto % 50;
+qtdNota20 = resto / 20;
+resto %= 20;
+qtdNota10 = resto / 10;
+resto %= 10;
+qtdNota5 = resto / 5;
+resto %= 5;
+qtdNota2 = resto / 2;
+resto %= 2;
 
 Console.WriteLine("Quantidade de notas de 100: "+qtdNota100
     +"\nQuantidade de notas de 50: "+qtdNota50
