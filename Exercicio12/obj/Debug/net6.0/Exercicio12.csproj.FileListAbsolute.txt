@@ -1,0 +1,15 @@
+E:\Academia .Net\Exercicio12\bin\Debug\net6.0\Exercicio12.exe
+E:\Academia .Net\Exercicio12\bin\Debug\net6.0\Exercicio12.deps.json
+E:\Academia .Net\Exercicio12\bin\Debug\net6.0\Exercicio12.runtimeconfig.json
+E:\Academia .Net\Exercicio12\bin\Debug\net6.0\Exercicio12.dll
+E:\Academia .Net\Exercicio12\bin\Debug\net6.0\Exercicio12.pdb
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.csproj.AssemblyReference.cache
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.GeneratedMSBuildEditorConfig.editorconfig
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.AssemblyInfoInputs.cache
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.AssemblyInfo.cs
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.csproj.CoreCompileInputs.cache
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.dll
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\refint\Exercicio12.dll
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.pdb
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\Exercicio12.genruntimeconfig.cache
+E:\Academia .Net\Exercicio12\obj\Debug\net6.0\ref\Exercicio12.dll
