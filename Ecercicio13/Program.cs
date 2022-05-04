@@ -14,7 +14,7 @@ double custo = Double.Parse(Console.ReadLine());
 Console.WriteLine("Qual o número de bicicletas vendidas pelo vendedor?");
 int qtdVendida = int.Parse(Console.ReadLine());
 
-double comissao = custo * 0.15;
+double comissao = custo * 0.15 * qtdVendida;
 double salario = (2 * sal_min) + comissao;
 
 Console.WriteLine("Salário do vendedor: "+salario);
