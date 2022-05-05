@@ -1,0 +1,15 @@
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\bin\Debug\net6.0\Exercicio2.exe
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\bin\Debug\net6.0\Exercicio2.deps.json
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\bin\Debug\net6.0\Exercicio2.runtimeconfig.json
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\bin\Debug\net6.0\Exercicio2.dll
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\bin\Debug\net6.0\Exercicio2.pdb
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.AssemblyReference.cache
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfoInputs.cache
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfo.cs
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.CoreCompileInputs.cache
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.dll
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\refint\Exercicio2.dll
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.pdb
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\Exercicio2.genruntimeconfig.cache
+E:\Academia .Net\Lista de Exercícios 2\Exercicio2\obj\Debug\net6.0\ref\Exercicio2.dll
