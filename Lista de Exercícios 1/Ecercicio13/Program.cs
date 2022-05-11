@@ -6,10 +6,10 @@
 */
 
 Console.WriteLine("Qual o valor do salário mínimo?");
-double sal_min = Double.Parse(Console.ReadLine());
+double sal_min = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Qual o preço de custo da bicicleta?");
-double custo = Double.Parse(Console.ReadLine());
+double custo = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Qual o número de bicicletas vendidas pelo vendedor?");
 int qtdVendida = int.Parse(Console.ReadLine());
