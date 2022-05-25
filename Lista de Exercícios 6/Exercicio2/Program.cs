@@ -16,24 +16,32 @@ string nome, tipo;
 int qtdGato = 0, qtdCachorro = 0, qtdPeixe = 0;
 List<Animal> listA = new List<Animal>();
 for (int i = 0; i < 5; i++)
-{    
-    
-    Console.Clear();
-    Console.WriteLine("Qual o nome do seu animal?");
-    nome = Console.ReadLine();
-    Console.WriteLine("Qual o tipo do seu animal?(Cachorro/Gato/Peixe)");
-    tipo = Console.ReadLine();
-    listA.Add(new Animal(nome, tipo));
+{
+    while(true){
+        Console.WriteLine("Qual o nome do seu animal?");
+        nome = Console.ReadLine();
+        Console.WriteLine("Qual o tipo do seu animal?(Cachorro/Gato/Peixe)");
+        tipo = Console.ReadLine();
+        if (tipo == "Gato" || tipo == "Cachorro" || tipo == "Peixe" || tipo == "gato" || tipo == "cachorro" || tipo == "peixe")
+        {
 
-    if (tipo == "Gato" || tipo == "gato")
+            listA.Add(new Animal(nome, tipo));
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Valor inválido!");
+        }
+    }
+    if (listA[i].Type == "Gato" || listA[i].Type == "gato")
     {
         qtdGato++;
     }
-    else if (tipo == "Cachorro" || tipo == "cachorro")
+    else if (listA[i].Type == "Cachorro" || listA[i].Type == "cachorro")
     {
         qtdCachorro++;
     }
-    else if (tipo == "Peixe" || tipo == "peixe")
+    else if (listA[i].Type == "Peixe" || listA[i].Type == "peixe")
     {
         qtdPeixe++;
     }
