@@ -1,0 +1,15 @@
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\bin\Debug\net6.0\7 - Desafio Carros.exe
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\bin\Debug\net6.0\7 - Desafio Carros.deps.json
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\bin\Debug\net6.0\7 - Desafio Carros.runtimeconfig.json
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\bin\Debug\net6.0\7 - Desafio Carros.dll
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\bin\Debug\net6.0\7 - Desafio Carros.pdb
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.csproj.AssemblyReference.cache
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.GeneratedMSBuildEditorConfig.editorconfig
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.AssemblyInfoInputs.cache
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.AssemblyInfo.cs
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.csproj.CoreCompileInputs.cache
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.dll
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\refint\7 - Desafio Carros.dll
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.pdb
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\7 - Desafio Carros.genruntimeconfig.cache
+E:\Academia .Net\exerciciosAcademia\7 - Desafio Carros\obj\Debug\net6.0\ref\7 - Desafio Carros.dll
