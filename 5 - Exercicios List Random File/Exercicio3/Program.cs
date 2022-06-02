@@ -44,13 +44,10 @@ do
             {
                 String nomeArquivo = "glicemia.txt";
                 StreamReader leitor = new StreamReader(nomeArquivo);
-                int valorGlicemico;
 
                 do
-                {
-                    Console.WriteLine("Qual o valor glicemico deseja adicionar?");
-                    valorGlicemico = int.Parse(Console.ReadLine());
-                    valGlicemia.Add(valorGlicemico);
+                {                    
+                    valGlicemia.Add(int.Parse(leitor.ReadLine()));
                 } while (!leitor.EndOfStream);
                 leitor.Close();
             }

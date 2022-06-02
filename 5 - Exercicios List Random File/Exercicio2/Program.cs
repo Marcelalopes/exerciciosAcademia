@@ -30,40 +30,28 @@ do
     switch (op)
     {
         case 1:
-            Console.WriteLine("Cadastrando emails...");
+            Console.WriteLine("Gerando lista...");
             string email;
-
-            try
-            { 
-                string nomeArquivo = "emails.txt";
-                StreamReader leitor = new StreamReader(nomeArquivo);
-
-                do
-                {
-                    Console.WriteLine("Qual email deseja cadastrar?");
-                    email = Console.ReadLine();
-                    if (!listEmails.Contains(email))
-                    {
-                        listEmails.Add(email);
-
-                        string[] emailsSplitados;
-                        string dominio;
-
-                        emailsSplitados = email.Split("@");
-                        dominio = emailsSplitados[1];
-                        if (!listDominios.Contains(dominio))
-                        {
-                            listDominios.Add(dominio);
-                        }
-                        listDominios.Sort();
-                    }
-                } while (!leitor.EndOfStream);
-
-                leitor.Close();
-            }
-            catch (IOException e)
+            Console.WriteLine("Cadastre um email: ");
+            email = Console.ReadLine().ToLower();
+            if (listEmails.Contains(email))
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine("Email já cadastrado");
+            }
+            else
+            {
+                listEmails.Add(email);
+
+                string[] emailSplit;
+                string dominio;
+                emailSplit = email.Split("@");
+                dominio = emailSplit[1];
+                if (!listDominios.Contains(dominio))
+                {
+                    listDominios.Add(dominio);
+                }
+                listDominios.Sort();
+                Console.WriteLine("Email cadastrado com sucesso");
             }
             Console.ReadKey();
             break;
