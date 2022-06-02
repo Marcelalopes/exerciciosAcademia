@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj": {}
+    "e:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj": {}
   },
   "projects": {
-    "E:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj": {
+    "e:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj",
+        "projectUniqueName": "e:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj",
         "projectName": "7 - Desafio Carros",
-        "projectPath": "E:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj",
+        "projectPath": "e:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\7 - Desafio Carros.csproj",
         "packagesPath": "C:\\Users\\MARCELA\\.nuget\\packages\\",
-        "outputPath": "E:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\obj\\",
+        "outputPath": "e:\\Academia .Net\\exerciciosAcademia\\7 - Desafio Carros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARCELA\\AppData\\Roaming\\NuGet\\NuGet.Config",

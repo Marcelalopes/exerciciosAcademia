@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Academia .Net\\exerciciosAcademia\\Lista de Exercícios 6\\Exercicio2\\Exercicio2.csproj": {}
+    "E:\\Academia .Net\\exerciciosAcademia\\6 - Exercicios Orientação a Objetos\\Exercicio2\\Exercicio2.csproj": {}
   },
   "projects": {
-    "E:\\Academia .Net\\exerciciosAcademia\\Lista de Exercícios 6\\Exercicio2\\Exercicio2.csproj": {
+    "E:\\Academia .Net\\exerciciosAcademia\\6 - Exercicios Orientação a Objetos\\Exercicio2\\Exercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Academia .Net\\exerciciosAcademia\\Lista de Exercícios 6\\Exercicio2\\Exercicio2.csproj",
+        "projectUniqueName": "E:\\Academia .Net\\exerciciosAcademia\\6 - Exercicios Orientação a Objetos\\Exercicio2\\Exercicio2.csproj",
         "projectName": "Exercicio2",
-        "projectPath": "E:\\Academia .Net\\exerciciosAcademia\\Lista de Exercícios 6\\Exercicio2\\Exercicio2.csproj",
+        "projectPath": "E:\\Academia .Net\\exerciciosAcademia\\6 - Exercicios Orientação a Objetos\\Exercicio2\\Exercicio2.csproj",
         "packagesPath": "C:\\Users\\MARCELA\\.nuget\\packages\\",
-        "outputPath": "E:\\Academia .Net\\exerciciosAcademia\\Lista de Exercícios 6\\Exercicio2\\obj\\",
+        "outputPath": "E:\\Academia .Net\\exerciciosAcademia\\6 - Exercicios Orientação a Objetos\\Exercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARCELA\\AppData\\Roaming\\NuGet\\NuGet.Config",
