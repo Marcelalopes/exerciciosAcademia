@@ -1,2 +1,3 @@
 # exerciciosAcademia
-resolução de exercícios propostos na Academia .Net da AtoS
+
+repositório destinado aos exercícios de backend propostos durante o curso de capacitação da AtoS em parceria com a UFN - Academia .NET
